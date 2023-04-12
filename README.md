@@ -43,9 +43,6 @@ Print the accuracy
 
 
  PROGRAM:
-NAMEE:KATHIRVEL.A
-REG NO:212221230047
-
 ```
 import numpy as np
 import pandas as pd
@@ -126,6 +123,7 @@ OUTPUT
 
 
 DATASET:
+
 ![image](https://user-images.githubusercontent.com/94911373/231402020-1454c603-13b7-49ab-8ddf-98e40636e5e0.png)
 
 
@@ -172,4 +170,5 @@ ACCURACY:
 
 
 RESULT:
+
 Thus a perceptron for classification is implemented using python
