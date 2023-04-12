@@ -123,7 +123,6 @@ plt.show()
 
 
 OUTPUT:
-
 Dataset:
 ![image](https://user-images.githubusercontent.com/94911373/231402020-1454c603-13b7-49ab-8ddf-98e40636e5e0.png)
 
@@ -132,7 +131,6 @@ Dataset:
 
 
 Scatter Plot:
-
 
 ![image](https://user-images.githubusercontent.com/94911373/231402280-1916116d-939e-41de-ad91-e04dcc59599d.png)
 
@@ -147,7 +145,6 @@ Scatter Plot:
 
 Error Plot:
 
-
 ![image](https://user-images.githubusercontent.com/94911373/231402396-00a6c64a-16e3-423f-8746-02d03eb1063c.png)
 
 
@@ -159,7 +156,6 @@ Error Plot:
 
 Accuracy:
 
-
 ![image](https://user-images.githubusercontent.com/94911373/231402442-a7b0b77f-5014-41a5-9761-acdfe3313b52.png)
 
 
@@ -170,7 +166,5 @@ Accuracy:
 
 
 RESULT:
-
-
 
 Thus a perceptron for classification is implemented using python
